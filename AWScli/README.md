@@ -1,5 +1,6 @@
-<pre> Crea una imagen con la ultima version de ubuntu
-Aplicaciones que contiene:
+Crea una imagen con la ultima version de ubuntu
+<br>
+<pre>
 - AWScli
 - Kubectl
 - Git
