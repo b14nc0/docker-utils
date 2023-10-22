@@ -7,6 +7,7 @@ Aplicaciones que contiene:
 - Git
 - Helm
 - Terraform
+- eksctl 
 </pre>
 
 Docker build

@@ -27,4 +27,3 @@ RUN mv eksctl /usr/local/bin
 
 
 WORKDIR /root
-CMD ["sleep" "infinity"]
