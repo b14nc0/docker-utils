@@ -21,7 +21,9 @@ Docker run
 
 ```bash
 docker run -d --rm --name awscli --mount type=bind,source="C:\\aws\\",target=/root awscli sleep infinity
-
+```
 Docker exec
 
+```bash
 docker exec -ti awscli bash
+```
